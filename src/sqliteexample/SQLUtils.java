@@ -13,14 +13,6 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/*
- * SVN information
- * $Revision: 2971 $
- * $Author: ftrujillo $
- * $Date: 2014-12-31 11:50:45 -0700 (Wed, 31 Dec 2014) $
- * $HeadURL: http://svn/NSG/comp_ssd/software/trunk/NetBeansProjects/Examples/SQLiteExample/src/sqliteexample/SQLUtils.java $
- *
- */
 public class SQLUtils {
 
     private static boolean debug = false;
